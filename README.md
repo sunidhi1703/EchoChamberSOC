@@ -21,8 +21,3 @@ I studied how a neural network works by mimicking biological neurons using layer
 ## Recurrent Neural Networks (RNNs)
 RNNs introduced the idea of memory and how previous time steps influence future predictions — something essential for tasks like text generation or stock prediction. I explored the basic RNN structure, understood how sequences flow through time, and how information is passed across steps. I also got introduced to LSTMs and why they’re preferred when longer memory is needed.
 
-
----
-
-## 📂 Repo Structure
-
